@@ -34,7 +34,7 @@ dependencies:
   camera:
   path_provider:
   path:
-  simple_s3: 0.3.2
+  amazon_s3_cognito: ^0.8.0
 
 
   # The following adds the Cupertino Icons font to your application.
